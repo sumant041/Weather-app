@@ -1,0 +1,17 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2em; }
+  body h1 {
+    text-align: center;
+    border-radius: 2em;
+    padding: 0.6em;
+    color: #ddd; }
+    .container{
+      background-color: #D87833;
+      padding: 0.2em;
+    }
+
+    table {
+      font-size: 1.2em; }
+      table i {
+        width: 20px; }
